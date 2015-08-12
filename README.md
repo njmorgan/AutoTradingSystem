@@ -1,0 +1,2 @@
+# AutoTradingSystem
+My first app
